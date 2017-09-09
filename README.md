@@ -4,5 +4,5 @@ chmod +x installxfos
 ./installxfos
 ````
 
-# Info
+# Infos
 betriebssystem läuft auf linux mint und allen ubuntu versionen
