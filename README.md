@@ -1,8 +1,6 @@
 # xfos
 ````
 chmod +x installxfos
-````
-````
 ./installxfos
 ````
 
