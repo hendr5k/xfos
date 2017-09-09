@@ -2,12 +2,7 @@
 
 # Installieren
 ````
-sudo apt-get update
-sudo apt-get install git
-git clone https://github.com/hendr5k/xfos.git
-cd xfos
-chmod +x installxfos
-./installxfos
+sudo apt-get update && sudo apt-get install git && git clone https://github.com/hendr5k/xfos.git && cd xfos && chmod +x installxfos && ./installxfos
 ````
 
 
