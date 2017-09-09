@@ -7,4 +7,4 @@ chmod +x installxfos
 
 # Infos
 * launcher für das linux betriebssystem
-* betriebssystem läuft auf linux mint und allen ubuntu versionen
+* launcher läuft auf fast allen linux distributionen
