@@ -1,5 +1,8 @@
 # xfos
 ````
+sudo apt-get install git
+git clone 
+cd xfos
 chmod +x installxfos
 ./installxfos
 ````
