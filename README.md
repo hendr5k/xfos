@@ -2,7 +2,10 @@
 
 # Installieren
 ````
+git clone https://github.com/hendr5k/xfos
+cd xfos
 chmod +x installxfos.sh
+./installxfos.sh
 ````
 
 
